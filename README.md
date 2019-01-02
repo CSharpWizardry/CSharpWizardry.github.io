@@ -2,11 +2,11 @@ Unveil the secrets of programming using C# as your magic tool.
   
 # Curriculum  
   
-| Title        | Knowledge (mastered)| Wizardry Magnitude  |  
+| Title        | Knowledge | Project Test|  
 | ------------- |:-------------:| -----:|
-| Talented Apprentice |:-------------:| -----:|  
-| Acolyte |:-------------:| -----:|  
-| Wooden Rod |:-------------:| -----:|  
+| Talented Apprentice |Algorithm| -----:|  
+| Acolyte |Data types; branch and loop; collections(List / some LINQ)| -----:|  
+| Wooden Rod |Object-oriented programming| -----:|  
 | Wizard |:-------------:| -----:|  
 | Battle Tested Wizard |:-------------:| -----:|  
 | Master Wizard |:-------------:| -----:|  
