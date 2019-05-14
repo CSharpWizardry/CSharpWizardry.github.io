@@ -1,10 +1,16 @@
 Unveil the secrets of programming using C# as your magic tool.  
-  
+
+# To Learn and execute the solutions:
+[Instructions](https://github.com/CSharpWizardry/Challenge-Template/blob/master/GeneralInstructions.md)  
+
+# To Create Challenges:
+[Instructions](https://github.com/CSharpWizardry/Challenge-Template/blob/master/README.md)  
+
 # Curriculum  
   
-| Title        | Knowledge | Project Test|  
+| Title        | Knowledge | Link|  
 | ------------- |:-------------:| -----:|
-| Talented Apprentice |Algorithm| -----:|  
+| Talented Apprentice |[subjects](https://github.com/CSharpWizardry/Apprentice-Challenge#what-an-apprentice-should-know)| [Apprentice Challenge](https://github.com/CSharpWizardry/Apprentice-Challenge)|  
 | Acolyte |Data types; branch and loop; collections(List / some LINQ)| -----:|  
 | Wooden Rod |Object-oriented programming; MVC| -----:|  
 | Wizard |Events, Delegates; | -----:|  
